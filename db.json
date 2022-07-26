@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "desc": "json-server",
+      "price": 23
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ]
+  
+}
